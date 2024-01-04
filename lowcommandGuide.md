@@ -32,6 +32,8 @@ Low Command is an administrative role, that handles the IC side of managing shif
 
 Your status as Low Command member only needs to be respected when you play as Sector Administrator or Sector Commander. When you play other roles, yuo will be classified as regular player and can't do LC actions Rule 2 of escaping punishment also applies to escaping from LC member trying to handle aHelp.
 
+Example of escaping: LC member (Sector Admin/Commander) has reached the person to interact/talk with them, and then they go complete self-antag or prevent the situation from being investigated by other means.
+
 ## Basic Commands <a name="basic-commands"></a>
 
 ### Communication <a name="communication"></a>
