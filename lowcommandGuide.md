@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Relation to Central Command](#relation-cc)
-3. [Basic Commands](#basic-commands)
+3. [Rule Enforcement](#rule-enforcement)
    - [Communication](#communication)
    - [Navigation](#navigation)
 4. [Advanced Commands](#advanced-commands)
@@ -34,8 +34,9 @@ Your status as Low Command member only needs to be respected when you play as Se
 
 Example of escaping: LC member (Sector Admin/Commander) has reached the person to interact/talk with them, and then they go complete self-antag or prevent the situation from being investigated by other means.
 
-## Basic Commands <a name="basic-commands"></a>
+## Rule Enforcement <a name="rule-enforcement"></a>
 
+Rules 1, 2, 5 and 6 enforceable by LC. Rules 3, 4, 8 and up handled by CC
 ### Communication <a name="communication"></a>
 
 - **Radio Communication:** Use the radio to coordinate with other departments. The command channel is vital for issuing directives to all departments.
