@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Space Law Handbook for [Your SS14 Server Name]. This document outlines the rules and regulations that govern behavior aboard the space station. Ignorance of the law is not an excuse, so familiarize yourself with the following guidelines.
+Welcome to the Space Law Handbook for Pax Astralis Sector. This document outlines the rules and regulations that govern behavior aboard the space station. Ignorance of the law is not an excuse, so familiarize yourself with the following guidelines.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Space Law Handbook for [Your SS14 Server Name]. This document out
 
 - **Respect:** Treat fellow crew members, regardless of role, with respect and courtesy.
 - **Collaboration:** Collaborate and communicate effectively with others for the betterment of the station.
-- **Follow Orders:** Obey lawful orders from superiors and high command.
+- **Follow Orders:** Obey lawful orders from sector command and central command.
 
 ## Minor Crimes and Punishments <a name="minor-crimes-and-punishments"></a>
 
@@ -27,38 +27,38 @@ Welcome to the Space Law Handbook for [Your SS14 Server Name]. This document out
 ### Theft of Non-Critical Items
 
 - **Definition:** Unauthorized acquisition of non-critical items.
-- **Punishment:** Brig time (up to 10 minutes), fine.
+- **Punishment:** Brig time (up to 10 minutes) or fine (20000).
 
 ### Trespassing
 
 - **Definition:** Unauthorized entry into restricted areas.
-- **Punishment:** Brig time (up to 15 minutes).
+- **Punishment:** Brig time (up to 10 minutes).
 
 ## Moderate Crimes and Punishments <a name="moderate-crimes-and-punishments"></a>
 
 ### Assault
 
 - **Definition:** Infliction of harm upon another crew member.
-- **Punishment:** Brig time (up to 30 minutes), fine.
+- **Punishment:** Brig time (up to 20 minutes) or fine (40000).
 
 ### Sabotage
 
 - **Definition:** Deliberate damage to station equipment.
-- **Punishment:** Brig time (up to 45 minutes), restitution for damages.
+- **Punishment:** Brig time (up to 25 minutes), restitution for damages.
 
-### Unauthorized Weapon Use
+### Unauthorized Syndicate Equipment
 
-- **Definition:** Use of lethal weapons without proper authorization.
-- **Punishment:** Brig time (up to 60 minutes), loss of weapon privileges.
+- **Definition:** Possessing enemy organization's gear or resources.
+- **Punishment:** Brig time (up to 30 minutes), confiscation of gear or resources
 
 ## Capital Crimes and Punishments <a name="capital-crimes-and-punishments"></a>
 
-### Mutiny
+### Mutiny Against Pax Astralis Sector Command
 
 - **Definition:** Organized rebellion against the chain of command.
 - **Punishment:** Permanent brig time, job ban, possible permanent ban.
 
-### Malicious Homicide
+### Malicious Mass Homicide
 
 - **Definition:** Intentional killing of another crew member.
 - **Punishment:** Permanent brig time, job ban, possible permanent ban.
