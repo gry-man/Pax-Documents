@@ -44,17 +44,17 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Assault
 
 - **Definition:** Infliction of harm upon another crew member.
-- **Punishment:** Brig time (up to 20 minutes) or fine (40000).
+- **Punishment:** Brig time (up to 12 minutes) or fine (24000).
 
 ### Sabotage
 
 - **Definition:** Deliberate damage to station equipment.
-- **Punishment:** Brig time (up to 25 minutes), restitution for damages.
+- **Punishment:** Brig time (up to 15 minutes), restitution for damages.
 
 ### Unauthorized Syndicate Equipment
 
 - **Definition:** Possessing enemy organization's gear or resources.
-- **Punishment:** Brig time (up to 30 minutes), confiscation of gear or resources
+- **Punishment:** Brig time (up to 20 minutes), confiscation of gear or resources
 
 ## Capital Crimes and Punishments <a name="capital-crimes-and-punishments"></a>
 
