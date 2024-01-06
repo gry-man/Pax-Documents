@@ -4,11 +4,7 @@
 1. [Introduction](#introduction)
 2. [Relation to Central Command](#relation-cc)
 3. [Rule Enforcement](#rule-enforcement)
-   - [Communication](#communication)
-   - [Navigation](#navigation)
 4. [Low Command Rules](#lc-rules)
-   - [Security Procedures](#security-procedures)
-   - [Emergency Protocols](#emergency-protocols)
 5. [Troubleshooting](#troubleshooting)
 6. [Additional Resources](#additional-resources)
 
