@@ -56,7 +56,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Mutiny Against Pax Astralis Sector Command
 
 - **Definition:** Organized rebellion against the chain of command.
-- **Punishment:** Permanent brig time, job ban, possible permanent ban.
+- **Punishment:** Permanent brig time, job ban, possible ban.
 
 ### Malicious Mass Homicide
 
@@ -66,7 +66,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Mass Destruction
 
 - **Definition:** Deliberate and extensive damage to vital station systems.
-- **Punishment:** Permanent ban, possible IP ban.
+- **Punishment:** Permanent brig time.
 
 ## Conclusion
 
