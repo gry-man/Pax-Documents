@@ -24,6 +24,11 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 - **Definition:** Disruptive behavior causing minor disturbances.
 - **Punishment:** Verbal warning, brig time (up to 5 minutes).
 
+### Docking Violation
+
+- **Definition:** Exceeding allowed docking time (15 minutes) or docking with out permission.
+- **Punishment:** Verbal warning, fine (10000)
+
 ### Theft of Non-Critical Items
 
 - **Definition:** Unauthorized acquisition of non-critical items.
