@@ -32,7 +32,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Theft of Non-Critical Items
 
 - **Definition:** Unauthorized acquisition of non-critical items.
-- **Punishment:** Brig time (up to 10 minutes) or fine (20000).
+- **Punishment:** Brig time (up to 5 minutes) or fine (10000).
 
 ### Trespassing
 
