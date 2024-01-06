@@ -6,7 +6,7 @@
 3. [Rule Enforcement](#rule-enforcement)
    - [Communication](#communication)
    - [Navigation](#navigation)
-4. [Advanced Commands](#advanced-commands)
+4. [Low Command Rules](#lc-rules)
    - [Security Procedures](#security-procedures)
    - [Emergency Protocols](#emergency-protocols)
 5. [Troubleshooting](#troubleshooting)
@@ -37,7 +37,13 @@ Example of escaping: LC member (Sector Admin/Commander) has reached the person t
 ## Rule Enforcement <a name="rule-enforcement"></a>
 
 Rules 1, 2, 5 and 6 enforceable by LC. Rules 3, 4, 8 and up handled by CC
-### Communication <a name="communication"></a>
+### Low Command Rules <a name="lc-rules"></a>
 
-- **Radio Communication:** Use the radio to coordinate with other departments. The command channel is vital for issuing directives to all departments.
+- **1. Don't embezzle station funds:** Don't take station funds for anything else than salaries mentioned in the rules (amounts are listed there for jobs) or when refunding aHelp related matter.
+
+  **2. Don't disconnect/SSD before cryo-ing:** Always cryo and take your ID(s) with you, if you need to leave or even go SSD more than 1 minute.
+
+  **3. Serious RP  on at least Medium RP standard:** When you are playing Sector Administrator/Commander, you need to RP as if it was MRP. 
+
+  **4. :** 
 
