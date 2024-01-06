@@ -65,7 +65,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 
 ### Malicious Mass Homicide
 
-- **Definition:** Intentional killing of another crew member.
+- **Definition:** Intentional killing of multiple crew members.
 - **Punishment:** Permanent brig time, job ban, possible permanent ban.
 
 ### Mass Destruction
