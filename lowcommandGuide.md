@@ -41,5 +41,5 @@ Rules 1, 2, 5 and 6 enforceable by LC. Rules 3, 4, 8 and up handled by CC
 
   **3. Serious RP  on at least Medium RP standard:** When you are playing Sector Administrator/Commander, you need to RP as if it was MRP. 
 
-  **4. :** 
+  **4. Enforce and delegate conscientiously** Rules 1, 2, 5 and 6 can be enforced by Low Command. Rules 3, 4, 8 and up are handled by Central Command and any enquiries related to them should be delegated to CC. 
 
