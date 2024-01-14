@@ -55,7 +55,7 @@ Maintaining an in-character approach is vital for preserving the immersive atmos
 
 In the event of self-antagging, follow the established in-character retaliation procedure:
 
-1. **Send a CentComm Spec Ops Team:** Coordinate with other administrators or event coordinators to dispatch a CentComm Spec Ops team to confront the self-antagger.
+1. **Send a CentComm Spec Ops Team:** Coordinate with other administrators or event coordinators to dispatch a CentComm Spec Ops team to confront the self-antagger. If there are no ghosts available, you can be a lone NT operative to hunt the self-antagger.
 
 2. **Bluespace Artillery Ship:** Initiate the call for a Bluespace Artillery Ship. This process takes 35 minutes, providing ample time for the in-game scenario to unfold naturally. Once the ship arrives, the self-antagger can be hit by bluespace artillery missile which kills them immediately. 
 
