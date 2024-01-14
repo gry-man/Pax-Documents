@@ -17,7 +17,7 @@ Welcome to Space Station 14 Central Command! As a community administrator, also 
 
 ### 2.1 Responding to aHelps
 
-When responding to aHelps, it is important to maintain a professional and helpful demeanor. Start your response by addressing the player's username twice and inquire if they require any additional assistance. For example:
+When responding to aHelps, it is important to maintain a professional and helpful demeanor. Start your response by addressing the player username and later mention it second time. For example: 1) Hello Username, how can I help you? 2) Exactly, Username. Just a moment please. 3) Do you need any additional help Username?
 
 
 ### 2.2 Avoiding Direct Intervention
