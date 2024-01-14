@@ -56,10 +56,25 @@ In the event of self-antagging, follow the established in-character retaliation 
 
 1. **Send a CentComm Spec Ops Team:** Coordinate with other administrators or event coordinators to dispatch a CentComm Spec Ops team to confront the self-antagger.
 
-2. **Bluespace Artillery Ship:** Initiate the call for a Bluespace Artillery Ship. This process takes 35 minutes, providing ample time for the in-game scenario to unfold naturally.
+2. **Bluespace Artillery Ship:** Initiate the call for a Bluespace Artillery Ship. This process takes 35 minutes, providing ample time for the in-game scenario to unfold naturally. Once the ship arrives, the self-antagger can be hit by bluespace artillery missile which kills them immediately. 
 
 3. **Support the Death Squad:** The Bluespace Artillery Ship can also be utilized to support the CentComm Spec Ops team. Ensure that the response is proportional and aligned with the storyline.
 
-Remember to document and report all incidents according to established procedures.
+Self-antagging, if it happens in a single case and does not include mass RDM, does not need to be documented. Please see below procedure for handling more extreme offences.
+
+## 6. Dealing with Extreme Offences
+
+In cases of extreme offences such as mass RDM, mass sabotage, exploiting, or ERP, follow these procedures:
+
+- **Mass RDM and Mass Sabotage:**
+  1. 3-day ban
+  2. 7-day ban
+  3. 14-day ban
+  4. Permanent ban
+
+- **Exploiting and ERP:**
+  - Permanent ban, as these offences are considered severe and always warrant a permanent ban.
+
+These are always documented with the noting system. 
 
 By adhering to these guidelines, you contribute to the overall success of Space Station 14 and help create a vibrant and enjoyable gaming environment. Thank you for your dedication and commitment to Central Command!
