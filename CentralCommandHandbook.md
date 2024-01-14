@@ -8,6 +8,7 @@
    - [3.1 Scoring System](#31-scoring-system)
 4. [In-Character Approach](#in-character-approach)
 5. [Dealing with Self-Antagging](#dealing-with-self-antagging)
+6. [Dealing with Extreme Offences](#dealing-with-extreme-offences)
 
 ## 1. Introduction
 
