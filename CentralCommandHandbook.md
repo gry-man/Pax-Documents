@@ -1,4 +1,4 @@
-# Space Station 14 Central Command Handbook
+# Pax Astralis Central Command Handbook
 
 ## Table of Contents
 
@@ -6,13 +6,13 @@
 2. [Handling aHelps](#handling-ahelps)
 3. [Quality Assurance Management](#quality-assurance-management)
    - [3.1 Scoring System](#31-scoring-system)
-4. [In-Character Approach](#in-character-approach)
+4. [In-Character Approach and Delegating Enforcement](#in-character-approach-and-delegating-enforcement)
 5. [Dealing with Self-Antagging](#dealing-with-self-antagging)
 6. [Dealing with Extreme Offences](#dealing-with-extreme-offences)
 
 ## 1. Introduction
 
-Welcome to Space Station 14 Central Command! As a community administrator, also known as a member of Central Command, your role is crucial in maintaining a positive and immersive gaming environment for our players. This handbook provides guidelines and procedures to help you effectively fulfill your responsibilities.
+Welcome to Pax Astralis Central Command! As a community administrator, also known as a member of Central Command, your role is crucial in maintaining a positive and immersive gaming environment for our players. This handbook provides guidelines and procedures to help you effectively fulfill your responsibilities.
 
 ## 2. Handling aHelps
 
@@ -47,9 +47,9 @@ To ensure consistent and high-quality support, administrators will be evaluated 
 
 Admins are encouraged to learn and improve from these scores to provide better assistance in the future.
 
-## 4. In-Character Approach
+## 4. In-Character Approach and Delegating Enforcement
 
-Maintaining an in-character approach is vital for preserving the immersive atmosphere of Space Station 14. Whenever possible, address issues and conflicts in-character rather than resorting to out-of-character interventions. This enhances the overall gaming experience for everyone.
+Maintaining an in-character approach is vital for preserving the immersive atmosphere of Pax Astralis. Address issues and conflicts in-character rather than resorting to out-of-character interventions. For minor offences such as rule violations 2, 5, and 6, delegate enforcement to Low Command as much as possible. These offences can often be handled entirely in-character, and Low Command serves as Central Command's assistant in promoting an in-character resolution approach.
 
 ## 5. Dealing with Self-Antagging
 
@@ -78,4 +78,4 @@ In cases of extreme offences such as mass RDM, mass sabotage, exploiting, or ERP
 
 These are always documented with the noting system. 
 
-By adhering to these guidelines, you contribute to the overall success of Space Station 14 and help create a vibrant and enjoyable gaming environment. Thank you for your dedication and commitment to Central Command!
+By adhering to these guidelines, you contribute to the overall success of Pax Astralis and help create a vibrant and enjoyable gaming environment. Thank you for your dedication and commitment to Central Command!
