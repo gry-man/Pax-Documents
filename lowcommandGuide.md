@@ -32,7 +32,16 @@ Example of escaping: LC member (Sector Admin/Commander) has reached the person t
 
 ## Rule Enforcement <a name="rule-enforcement"></a>
 
-Rules 1, 2, 5 and 6 enforceable by LC. Rules 3, 4, 8 and up handled by CC
+Rules 1, 2, 5 and 6 enforceable by LC. Rules 3, 4, 8 and up handled by CC.
+
+Counter-self antag procedure:
+
+If there is one count of RDM / self antagonism you may permanently brig the offender and add (at minimum 100k) bail on your discretion.
+
+If they are difficult to capture you can ask CentComm to send special ops to kill the self-antager. More information about the retaliation procedure in CentComm handbook.
+
+If it escalates further in to mass RDM (2 or more random murders) then CentComm’s extreme offences ban table is activated and they may be banned on CentComm discretion. This is mentioned in CentComm handbook. 
+
 ### Low Command Rules <a name="lc-rules"></a>
 
 - **1. Don't embezzle station funds:** Don't take station funds for anything else than salaries mentioned in the rules (amounts are listed there for jobs) or when refunding aHelp related matter.
