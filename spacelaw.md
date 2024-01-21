@@ -61,17 +61,23 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Mutiny Against Pax Astralis Sector Command
 
 - **Definition:** Organized rebellion against the chain of command.
-- **Punishment:** Permanent brig time, job ban, possible ban.
-
-### Malicious Mass Homicide
-
-- **Definition:** Intentional killing of multiple crew members.
-- **Punishment:** Permanent brig time, job ban, possible permanent ban.
+- **Punishment:** Permanent brig time (minimum bail 85 000 spesos)
 
 ### Mass Destruction
 
 - **Definition:** Deliberate and extensive damage to vital station systems.
-- **Punishment:** Permanent brig time.
+- **Punishment:** Permanent brig time. (minimum bail 85 000 spesos)
+
+### Malicious Homicide
+
+- **Definition:** Intentional killing of one crew member.
+- **Punishment:** Permanent brig time (minimum bail 100 000 spesos).
+
+### Malicious Mass Homicide
+
+- **Definition:** Intentional killing of multiple crew members.
+- **Punishment:** Permanent brig time, job ban, possible ban. (no bail)
+
 
 ## Conclusion
 
