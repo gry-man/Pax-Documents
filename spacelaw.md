@@ -10,6 +10,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 2. [Minor Crimes and Punishments](#minor-crimes-and-punishments)
 3. [Moderate Crimes and Punishments](#moderate-crimes-and-punishments)
 4. [Capital Crimes and Punishments](#capital-crimes-and-punishments)
+5. [Central Command Executive Orders](#central-command-executive-orders)
 
 ## General Conduct <a name="general-conduct"></a>
 
@@ -26,7 +27,7 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 
 ### Docking Violation
 
-- **Definition:** Exceeding allowed docking time (15 minutes) or docking with out permission.
+- **Definition:** Exceeding allowed docking time (15 minutes) or docking without permission.
 - **Punishment:** Verbal warning, fine (10000).
 
 ### Theft of Non-Critical Items
@@ -78,6 +79,25 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 - **Definition:** Intentional killing of multiple crew members.
 - **Punishment:** Permanent brig time, job ban, possible ban. (no bail)
 
+## Central Command Executive Orders <a name="central-command-executive-orders"></a>
+
+### Executive Order #1
+
+Central Command issues the following executive order pertaining to non-English or cipher language speaking individuals in general comms:
+
+1. **Identification and Detainment:** Any individual found communicating in a language other than English or utilizing cipher language in general communications shall be immediately detained and transported to Pax Security Station for further investigation.
+
+2. **Suspicion of Affiliation:** It is presumed that individuals communicating in non-English or cipher languages may be affiliated with enemy organizations, as such organizations are known to employ aliens utilizing cipher language to conceal their communications.
+
+3. **Permanent Brig Sentence:** Upon arrival at Pax Security Station, individuals identified under this executive order shall be subject to a permanent brig sentence, with their headsets confiscated to prevent further unauthorized communication.
+
+4. **English Proficiency Test:** Security personnel at Pax Security Station are authorized to conduct English proficiency tests on detained individuals. Those who demonstrate sufficient proficiency in English may be considered for release back into the public domain.
+
+5. **Continued Vigilance:** All personnel are reminded of the importance of vigilance in identifying and addressing potential security threats posed by non-standard communication methods.
+
+This executive order is effective immediately upon publication and supersedes any conflicting regulations.
+
+Issued by Central Command on 18.2.2524.
 
 ## Conclusion
 
