@@ -42,6 +42,11 @@ If they are difficult to capture you can ask CentComm to send special ops to kil
 
 If it escalates further in to mass RDM (2 or more random murders) then CentComm’s extreme offences ban table is activated and they may be banned on CentComm discretion. This is mentioned in CentComm handbook. 
 
+### Language Enforcement
+
+In accordance with Executive Order #1 issued by Central Command in Space Law, it is imperative to enforce the use of English language in all general communications. Non-English or cipher language speaking individuals detected in general comms must be immediately detained and transported to Pax Security Station for further investigation. Upon arrival, individuals will undergo testing for English proficiency. Those who demonstrate sufficient proficiency may be released back into the public domain, while others will face a permanent brig sentence as outlined in the executive order.
+
+
 ### Low Command Rules <a name="lc-rules"></a>
 
 - **1. Don't embezzle station funds:** Don't take station funds for anything else than salaries mentioned in the rules (amounts are listed there for jobs) or when refunding aHelp related matter.
