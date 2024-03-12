@@ -18,38 +18,25 @@ Welcome to Pax Astralis Central Command! As a community administrator, also know
 
 ### 2.1 Responding to aHelps
 
-When responding to aHelps, it is important to maintain a professional and helpful demeanor. Start your response by addressing the player username and later mention it second time. For example: 1) Hello Username, how can I help you? 2) Exactly, Username. Just a moment please. 3) Do you need any additional help Username?
+When responding to aHelps, it is important to maintain a professional, concise and helpful demeanor. Start your response by addressing the player username and later mention it a second time. For example: 1) Hello, Username. how can I help you? 2) Exactly, Username. Just a moment, please. 3) Do you need any additional assistance, Username?
 
 
 ### 2.2 Avoiding Direct Intervention
 
-Whenever possible, refrain from intervening directly in the game. Instead, encourage players to handle in-game situations in-character. This helps maintain the immersive experience for all players. Direct PMing should be minimized to avoid disrupting gameplay immersion.
+It is encouraged to refrain from intervening directly in the game, as allowing players to handle in-game situations in-character on their own allows the player's to remain immersed. Direct PMing should be minimized to avoid disrupting gameplay immersion, however encouraged over direct intervention, as it still allows the players to correct their behavior. Act within your own best judgement, but be mindful to these guidelines.
 
 ## 3. Quality Assurance Management
 
-### 3.1 Scoring System
+### Recommendations system
 
-To ensure consistent and high-quality support, administrators will be evaluated using a detailed scoring system:
+To provide a satisfactory experience for our players, leadership may provide advice to improve your Ahelp responses and other official interactions with players. Failing to adapt to these recommendations may result in an official administrative strike if you are found to be intentionally or unable to properly correct your interactions to our preferred methods.
 
-- **Mentioning Player's Username (2 scores):** Assign 2 scores for properly mentioning the player's username twice during an aHelp session.
-  
-- **Asking if Additional Assistance is Needed (1 score):** Assign 1 score for asking if the player requires further assistance.
-
-- **Empathy and Understanding (2 scores):** Assign 2 scores based on the administrator's demonstrated empathy and understanding of the aHelper's situation.
-
-- **Remaining Polite and Keeping Cool (Additional scores during confrontation):** Extra scores can be given if the administrator maintains a calm and polite demeanor during tough aHelp situations, especially when confronted by the player.
-
-- **Knowledge, Research, and Technical Help (2 scores):** Assign 2 scores for demonstrating knowledge, conducting research, and providing technical assistance during aHelp sessions.
-
-- **Correct Answer (2 scores):** Assign 2 scores for providing the correct answer to the aHelp inquiry.
-
-- **Good Closure of aHelp (1 score):** Assign 1 score for effectively closing the aHelp session on a positive note.
-
-Admins are encouraged to learn and improve from these scores to provide better assistance in the future.
+You are encouraged to: Mention the player's username twice within an Ahelp ticket, Seek assistance and clarification from leadership, Have empathy and understanding for the player, Remain Polite and Keeping Cool towards users, if you feel heated we encourage you to take a break. Providing Knowledge, Research, and Technical Help during Ahelp tickets. You should always knowingly provide the correct answer in an Ahelp ticket, however mistakes happen! We encourage Proper Closure of the aHelp ticket, forcibly closing a ticket without resolving the players issue is strongly discouraged and may be reprimanded.
 
 ## 4. In-Character Approach and Delegating Enforcement
 
-Maintaining an in-character approach is vital for preserving the immersive atmosphere of Pax Astralis. Address issues and conflicts in-character rather than resorting to out-of-character interventions. For minor offences such as rule violations 2, 5, and 6, delegate enforcement to Low Command as much as possible. These offences can often be handled entirely in-character, and Low Command serves as Central Command's assistant in promoting an in-character resolution approach.
+Maintaining an in-character approach is vital for preserving the immersive atmosphere of Pax Astralis. You should address issues and conflicts in-character rather than resorting to out-of-character interventions. For minor offenses such as rule violations 2, 5, and 6, delegate enforcement to Low Command as much as possible. These offenses can often be handled entirely in-character, and Low Command serves as Central Command's assistant in promoting an in-character resolution approach. However if the circumstances become exigant, you are permitted to exercise direct intervention, this is strongly discouraged unless necessary to ensuring a stable experience.
+
 
 ## 5. Dealing with Self-Antagging
 
@@ -57,15 +44,15 @@ In the event of self-antagging, follow the established in-character retaliation 
 
 1. **Send a CentComm Spec Ops Team:** Coordinate with other administrators or event coordinators to dispatch a CentComm Spec Ops team to confront the self-antagger. If there are no ghosts available, you can be a lone NT operative to hunt the self-antagger.
 
-2. **Bluespace Artillery Ship:** Initiate the call for a Bluespace Artillery Ship. This process takes 35 minutes, providing ample time for the in-game scenario to unfold naturally. Once the ship arrives, the self-antagger can be hit by bluespace artillery missile which kills them immediately. 
+2. **Bluespace Artillery Ship:** Initiate the call for a Bluespace Artillery Ship. This process takes 35 minutes, providing ample time for the in-game scenario to unfold naturally. Once the ship arrives, the self-antagger can be hit by a blue space artillery missile which kills them immediately. 
 
 3. **Support the Death Squad:** The Bluespace Artillery Ship can also be utilized to support the CentComm Spec Ops team. Ensure that the response is proportional and aligned with the storyline.
 
-Self-antagging, if it happens in a single case and does not include mass RDM, does not need to be documented. Please see below procedure for handling more extreme offences.
+If a self-antag incident occurs in a single case and does not include mass RDM. Than it does not need to be documented. Please see the below procedure for handling more extreme offenses.
 
 ## 6. Dealing with Extreme Offences
 
-In cases of extreme offences such as mass RDM, mass sabotage, exploiting, or ERP, follow these procedures:
+In the event of extreme offenses such as mass RDM, mass sabotage, exploiting, or ERP, follow these procedures:
 
 - **Mass RDM and Mass Sabotage:**
   1. 3-day ban
@@ -74,7 +61,7 @@ In cases of extreme offences such as mass RDM, mass sabotage, exploiting, or ERP
   4. Permanent ban
 
 - **Exploiting and ERP:**
-  - Permanent ban, as these offences are considered severe and always warrant a permanent ban.
+  - Permanent ban, as these offenses are considered severe and always warrant a permanent ban.
 
 These are always documented with the noting system. 
 
