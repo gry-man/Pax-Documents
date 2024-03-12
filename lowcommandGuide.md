@@ -51,7 +51,7 @@ In accordance with Executive Order #1 issued by Central Command in Space Law, it
 
 - **1. Don't embezzle station funds:** Don't take station funds for anything else than salaries mentioned in the rules (amounts are listed there for jobs) or when refunding aHelp related matter.
 
-  **2. Don't disconnect/SSD before cryo-ing:** Always cryo and take your ID(s) with you, if you need to leave or even go SSD more than 1 minute.
+  **2. Don't disconnect/SSD before cryo-ing:** Always cryo and take your ID(s) with you, if you need to leave or even go SSD more than 5 minutes.
 
   **3. Serious RP  on at least Medium RP standard:** When you are playing Sector Administrator/Commander, you need to RP as if it was MRP. 
 
